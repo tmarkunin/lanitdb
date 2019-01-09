@@ -1,0 +1,1 @@
+INSERT INTO test.SQL_HISTORY (script_name)  VALUES('2.0.3_001.sql');
